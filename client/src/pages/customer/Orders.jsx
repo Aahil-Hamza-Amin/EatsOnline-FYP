@@ -20,7 +20,7 @@ function Orders() {
       
       if (sessionId) {
         try {
-          const apiUrl = import.meta.env.VITE_REACT_APP_API_URL || "http://localhost:5000";
+          const apiUrl = import.meta.env.VITE_REACT_APP_API_URL || "https://eatsonline-fyp-bh8j.onrender.com";
           const response = await fetch(`${apiUrl}/api/payment-success`, {
             method: "POST",
             headers: {

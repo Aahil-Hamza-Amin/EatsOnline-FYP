@@ -7,7 +7,7 @@ import "../assets/ProfileSettings.css";
 import { getProfile } from '../services/api';
 
 // Add axios base URL configuration
-axios.defaults.baseURL = "http://localhost:5000";
+axios.defaults.baseURL = "https://eatsonline-fyp-bh8j.onrender.com";
 
 function ProfileSettings() {
   const { user, setUser, token } = useContext(AuthContext);

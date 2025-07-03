@@ -98,7 +98,7 @@ function Checkout() {
           throw new Error("Cart is empty, nothing to checkout with online payment");
         }
 
-        const apiUrl = import.meta.env.VITE_REACT_APP_API_URL || "http://localhost:5000";
+        const apiUrl = import.meta.env.VITE_REACT_APP_API_URL || "https://eatsonline-fyp-bh8j.onrender.com";
         const endpoint = `${apiUrl}/api/create-checkout-session`;
         
         const response = await fetch(endpoint, {

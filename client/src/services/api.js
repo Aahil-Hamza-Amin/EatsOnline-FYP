@@ -4,8 +4,8 @@ const api = axios.create({
   baseURL:
     import.meta.env.VITE_REACT_APP_API_URL ||
     (import.meta.env.MODE === "production"
-      ? "https://eatsonline-f3yo.onrender.com"
-      : "http://localhost:5000"),
+      ? "https://eatsonline-fyp-bh8j.onrender.com"
+      : "https://eatsonline-fyp-bh8j.onrender.com"),
 });
 
 // Request interceptor
