@@ -2,9 +2,9 @@
 # EATSONLINE-DEPLOY  
 *Seamless Deployment, Limitless Growth, Unmatched Reliability*
 
-![last-commit](https://img.shields.io/github/last-commit/thebilalkhokhar/EATSONLINE-DEPLOY?style=flat&logo=git&logoColor=white&color=0080ff)
-![repo-top-language](https://img.shields.io/github/languages/top/thebilalkhokhar/EATSONLINE-DEPLOY?style=flat&color=0080ff)
-![repo-language-count](https://img.shields.io/github/languages/count/thebilalkhokhar/EATSONLINE-DEPLOY?style=flat&color=0080ff)
+![last-commit](https://img.shields.io/github/last-commit/Aahil-Hamza-Amin/EATSONLINE-DEPLOY?style=flat&logo=git&logoColor=white&color=0080ff)
+![repo-top-language](https://img.shields.io/github/languages/top/Aahil-Hamza-Amin/EATSONLINE-DEPLOY?style=flat&color=0080ff)
+![repo-language-count](https://img.shields.io/github/languages/count/Aahil-Hamza-Amin/EATSONLINE-DEPLOY?style=flat&color=0080ff)
 
 **Built with the tools and technologies:**
 
@@ -71,7 +71,7 @@ Build EATSONLINE-DEPLOY from source and install dependencies:
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/thebilalkhokhar/EATSONLINE-DEPLOY
+git clone https://github.com/Aahil-Hamza-Amin/EATSONLINE-DEPLOY
 ```
 
 2. **Navigate to the project directory:**
